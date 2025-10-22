@@ -8,7 +8,7 @@ My professional portfolio showcases my recent projects, technical deep dives, an
 
 Click the image below to view the live site:
 
-[Portfolio](portfolio.png)(https://kamath.app)
+[![Portfolio](portfolio.png)](https://kamath.app)
 
 
 # 🤝 Connect
