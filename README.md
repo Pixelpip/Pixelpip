@@ -8,7 +8,7 @@ My professional portfolio showcases my recent projects, technical deep dives, an
 
 Click the image below to view the live site:
 
-[![Portfolio](portfolio.png)](atulkamath.com)
+[![Portfolio](portfolio.png)](https://atulkamath.com)
 
 
 # Connect
